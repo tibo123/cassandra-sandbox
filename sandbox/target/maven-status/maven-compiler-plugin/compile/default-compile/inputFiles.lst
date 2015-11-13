@@ -1,0 +1,6 @@
+/home/talend/workspace/cassandra-sandbox/sandbox/src/main/java/iblutha/demo/cassandra/domain/User.java
+/home/talend/workspace/cassandra-sandbox/sandbox/src/main/java/iblutha/demo/cassandra/services/UserService.java
+/home/talend/workspace/cassandra-sandbox/sandbox/src/main/java/iblutha/demo/cassandra/services/CassandraUserService.java
+/home/talend/workspace/cassandra-sandbox/sandbox/src/main/java/iblutha/demo/cassandra/AppModule.java
+/home/talend/workspace/cassandra-sandbox/sandbox/src/main/java/iblutha/demo/cassandra/Application.java
+/home/talend/workspace/cassandra-sandbox/sandbox/src/main/java/iblutha/demo/cassandra/persistance/CassandraManager.java
