@@ -1,6 +1,0 @@
-iblutha/demo/cassandra/domain/User.class
-iblutha/demo/cassandra/AppModule.class
-iblutha/demo/cassandra/persistance/CassandraManager.class
-iblutha/demo/cassandra/Application.class
-iblutha/demo/cassandra/services/UserService.class
-iblutha/demo/cassandra/services/CassandraUserService.class
